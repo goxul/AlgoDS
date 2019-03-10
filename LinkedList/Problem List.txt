@@ -1,0 +1,36 @@
+Print a Linked List - Done
+Length of a linked list - Done
+Node at a given index in linked list - Done
+Middle of a linked list - Done
+n-th node from end of a linked list - Done
+Delete a node - Done
+Remove every k’th node
+Delete N nodes after M nodes of a linked list
+Delete without head pointer
+Rearrange a linked list
+Segregate even and odd (Using only one traversal)
+Reorder List
+Polynomial Addition
+Insert in a Sorted List
+Swap nodes in pairs
+Reverse a linked list
+Reverse a Linked List in groups of given size.
+Check for palindrome
+Flattening a linked list
+Get intersection point
+Remove duplicates from sorted list
+Remove duplicates from unsorted lists
+Sort a linked list of 0s, 1s and 2s.
+Circular Linked List
+Detect loop in a linked list - Done
+Find length of Loop - Done
+Remove loop in a linked list
+Add two numbers represented by linked lists
+Clone a linked list with random pointers
+Add 1 to a number represented as linked list
+Add two numbers represented as linked list
+Multiply two linked lists
+Merge two sorted linked lists
+Merge Sort on Linked List
+Intersection of Two Linked Lists
+Union of Two Linked Lists
