@@ -13,6 +13,5 @@ int main(int argc, char const *argv[])
 
     for(int i = 0; i < n; i++) if(mp[arr[i]] == 1){cout << arr[i] << endl; break;}
 
-
 	return 0;
 }
