@@ -25,8 +25,6 @@ ll lis(ll arr[], ll n){
 }
 
 
-
-
 int main() 
 { 
     ll arr[] = { -3, -100, -4, -5, -150, -6 }; 
